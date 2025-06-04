@@ -1,2 +1,2 @@
-# Johm-REACT
+# README (REACT)
 This is my React final project 

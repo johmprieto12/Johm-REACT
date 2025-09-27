@@ -1,2 +1,2 @@
 # README (REACT)
-This is my React final project 
+This is my project using React
